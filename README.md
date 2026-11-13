@@ -12,16 +12,7 @@ On the web, I build websites, user panels and XenForo add-ons for things like ac
 
 ## Projects
 
-### Vector Tracker
-
-Tracks CS2 matches, Premier rating, Steam bans and inventories for Discord servers.
-
-A server picks the Steam accounts to follow, and the bot posts their match results, rating changes, new bans and inventory changes there. `/stats` looks up CS2 stats and medals for a Steam account. It runs in 412 servers with about 27,000 users (November 2026).
-
-JavaScript · discord.js v14 · MongoDB · CS2 Game Coordinator\
-[Add to Discord](https://discord.com/oauth2/authorize?client_id=1387488635783348264)
-
-Most of my other projects are open source. They’re pinned below, and every public repository is on the [Repositories tab](https://github.com/velyndev?tab=repositories).
+Most of my projects are open source. They’re pinned below, and every public repository is on the [Repositories tab](https://github.com/velyndev?tab=repositories).
 
 ## Message me
 
