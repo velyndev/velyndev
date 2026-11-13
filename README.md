@@ -1,27 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=header" />
+<a href="https://velyn.dev"><img src="assets/banner.svg" width="100%" alt="velyn"></a>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
+<p align="center">I build whatever I find interesting.<br><a href="https://velyn.dev">velyn.dev</a></p>
 
-<p align="center">running <a href="https://luminary.pub">luminary.pub</a>. windows tooling, reverse engineering, discord bots, and the occasional web thing.</p>
+I’m velyn, a developer based in Germany. I write native Windows software and have experience in reverse engineering, so I’m comfortable working close to the system and figuring out how other programs work.
 
-<h3 align="center">languages</h3>
+On the web, I build websites, user panels and XenForo add-ons for things like accounts and marketplaces, and I run my own sites too. I’ve also done GTA multiplayer development and written browser extensions and Discord bots, so I don’t stick to one area. If something catches my interest, I start building.
 
-<p align="center">
-  <a href="https://luminary.pub"><img src="https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark" alt="langs" /></a>
-</p>
+**Languages:** C++, C, C#, JavaScript, TypeScript, PHP, Python, Lua\
+**Stack:** Node.js, discord.js, XenForo, MongoDB, MySQL, Astro, Tailwind CSS, Cloudflare\
+**Tools:** Visual Studio, VS Code, IDA Pro, x64dbg, ReClass.NET
 
-<h3 align="center">stack</h3>
+## Projects
 
-<p align="center">
-  <a href="https://luminary.pub"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,visualstudio,vscode&theme=dark" alt="stack" /></a>
-</p>
+### Vector Tracker
 
-<p align="center">
-  <a href="https://luminary.pub"><img src="https://img.shields.io/badge/luminary.pub-181a1e?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6" alt="Website" /></a>
-  <a href="https://discord.gg/luminary"><img src="https://img.shields.io/badge/discord-181a1e?style=for-the-badge&logo=discord&logoColor=8b5cf6" alt="Discord" /></a>
-  <a href="mailto:cloud@luminary.pub"><img src="https://img.shields.io/badge/cloud@luminary.pub-181a1e?style=for-the-badge&logo=maildotru&logoColor=8b5cf6" alt="Email" /></a>
-</p>
+Tracks CS2 matches, Premier rating, Steam bans and inventories for Discord servers.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer" />
+A server picks the Steam accounts to follow, and the bot posts their match results, rating changes, new bans and inventory changes there. `/stats` looks up CS2 stats and medals for a Steam account. It runs in 412 servers with about 27,000 users (November 2026).
+
+JavaScript · discord.js v14 · MongoDB · CS2 Game Coordinator\
+[Add to Discord](https://discord.com/oauth2/authorize?client_id=1387488635783348264)
+
+Most of my other projects are open source. They’re pinned below, and every public repository is on the [Repositories tab](https://github.com/velyndev?tab=repositories).
+
+## Message me
+
+Add me on Discord or send me an email.
+
+**Discord:** velyn.dev\
+**Email:** [hi@velyn.dev](mailto:hi@velyn.dev)\
+**X:** [@velyndev](https://x.com/velyndev)
